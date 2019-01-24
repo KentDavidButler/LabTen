@@ -1,0 +1,7 @@
+C:\Users\Administrator\source\repos\GrandCircus\LabTen\LabTen\bin\Debug\LabTen.exe.config
+C:\Users\Administrator\source\repos\GrandCircus\LabTen\LabTen\bin\Debug\LabTen.exe
+C:\Users\Administrator\source\repos\GrandCircus\LabTen\LabTen\bin\Debug\LabTen.pdb
+C:\Users\Administrator\source\repos\GrandCircus\LabTen\LabTen\obj\Debug\LabTen.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\GrandCircus\LabTen\LabTen\obj\Debug\LabTen.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\GrandCircus\LabTen\LabTen\obj\Debug\LabTen.exe
+C:\Users\Administrator\source\repos\GrandCircus\LabTen\LabTen\obj\Debug\LabTen.pdb
